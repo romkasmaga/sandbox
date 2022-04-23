@@ -10,5 +10,5 @@
  pull changes from github
 1. Edit file in browser
 2. Commit changes 
-3.git pull
+3. git pull
  
