@@ -5,3 +5,10 @@
 5. git add read.md
 6. git commit -m "any masage"
 7. git push
+8. go to github and chek changes
+
+ pull changes from github
+1. Edit file in browser
+2. Commit changes 
+3.git pull
+ 
